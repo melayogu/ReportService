@@ -7,3 +7,6 @@ ex. ?rs:Enbed=true
 2、
 加入hangfire相關服務。</br>
 (1)、列印相關排程相關log。
+
+3、
+(1)、產生xml檔案。
