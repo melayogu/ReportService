@@ -5,4 +5,5 @@ ASP.NET CORE建立iframe嵌入report service view。
 ex. ?rs:Enbed=true
 
 2、
-加入hangfire相關服務。
+加入hangfire相關服務。</br>
+列印相關排程相關log。
